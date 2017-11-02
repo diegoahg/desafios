@@ -1,7 +1,3 @@
-Diego,
-
-te enviamos acá la prueba técnica:
-
 Dado un arreglo A = {a1, a2, …, an} de N elementos, encontrar la suma máxima posible de:
 
 1. Un subarreglo contiguo 
@@ -39,13 +35,5 @@ En el primer caso: La suma máxima para ambos es simplemente la suma de todos los
 
 En el segundo caso: El subarreglo [2, -1, 2, 3, 4] es el subarreglo con la suma máxima, y [2, 2, 3, 4] es la subsecuencia con la suma máxima.
 
-ENTREGA: 
-Debes entregar un archivo PHP (uno solo) que contenga toda la solución, desde leer el input hasta mostrar el output.
-
-IMPORTANTE: 
-El archivo PHP que envíes será procesado por un algoritmo, así que debe cumplir con todas las exigencias aquí indicadas.
-
 CONSEJO:
 Ten en cuenta que los ejemplos aquí presentados son eso, ejemplos, por lo que no te guíes ni ciegues únicamente a resolver esos casos, tu algoritmo debería ser capaz de solucionar cualquier caso siempre que cumpla con lo indicado en restricciones.
-
-Éxito!

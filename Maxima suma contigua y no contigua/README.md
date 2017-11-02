@@ -1,4 +1,4 @@
-# Desafio de suma maxima en arreglo contiguo y no contiguo
+# Suma maxima en arreglo contiguo y no contiguo
 Descripcion: SUMAS MAXIMAS DE ARREGLOS CONTIGUOS Y NO-CONTIGUOS
 
 
